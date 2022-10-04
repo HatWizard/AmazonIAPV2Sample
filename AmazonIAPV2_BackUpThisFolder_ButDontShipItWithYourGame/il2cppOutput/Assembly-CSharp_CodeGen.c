@@ -1,0 +1,117 @@
+﻿#include "pch-c.h"
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+// 0x00000001 AmazonIAP.SampleIAPManager SubscriptionPurchaseViewController::get_IAPManager()
+extern void SubscriptionPurchaseViewController_get_IAPManager_m0FB90263CC095F1FBCC42A54CBFFF6E6180E73A7 (void);
+// 0x00000002 System.Void SubscriptionPurchaseViewController::set_IAPManager(AmazonIAP.SampleIAPManager)
+extern void SubscriptionPurchaseViewController_set_IAPManager_m5ED086A4195EE08C05BB6CA883BD7C86ECC874EB (void);
+// 0x00000003 TMPro.TextMeshProUGUI SubscriptionPurchaseViewController::get_LogTxt()
+extern void SubscriptionPurchaseViewController_get_LogTxt_m1889973B114F9405215795C20BFE557EEC50B604 (void);
+// 0x00000004 System.Void SubscriptionPurchaseViewController::set_LogTxt(TMPro.TextMeshProUGUI)
+extern void SubscriptionPurchaseViewController_set_LogTxt_mC34AD168518727E45C04FF19D974C2D6568752C1 (void);
+// 0x00000005 TMPro.TextMeshProUGUI SubscriptionPurchaseViewController::get_PurchaseBtnTxt()
+extern void SubscriptionPurchaseViewController_get_PurchaseBtnTxt_mF397EEE7D02C73C479395980C9DF6003EA26071A (void);
+// 0x00000006 System.Void SubscriptionPurchaseViewController::set_PurchaseBtnTxt(TMPro.TextMeshProUGUI)
+extern void SubscriptionPurchaseViewController_set_PurchaseBtnTxt_m530F6CE21A8F882091D74FFE6799A0FC0BCB2DE4 (void);
+// 0x00000007 UnityEngine.UI.Button SubscriptionPurchaseViewController::get_PurchaseBtn()
+extern void SubscriptionPurchaseViewController_get_PurchaseBtn_m33A6D091C3EA34CC030C182F6B11080F731FA52A (void);
+// 0x00000008 System.Void SubscriptionPurchaseViewController::set_PurchaseBtn(UnityEngine.UI.Button)
+extern void SubscriptionPurchaseViewController_set_PurchaseBtn_m9BF118357A521889ECE444BB80BE4A96F4D0D66E (void);
+// 0x00000009 UnityEngine.UI.Button SubscriptionPurchaseViewController::get_ClearLogBtn()
+extern void SubscriptionPurchaseViewController_get_ClearLogBtn_mB9C166C8B47ECECD6514C663576886D95FABDE38 (void);
+// 0x0000000A System.Void SubscriptionPurchaseViewController::set_ClearLogBtn(UnityEngine.UI.Button)
+extern void SubscriptionPurchaseViewController_set_ClearLogBtn_m13C3920A4A8BB588998402F4CEB44174C8FB3273 (void);
+// 0x0000000B UnityEngine.GameObject SubscriptionPurchaseViewController::get_SubscriptionActiveMark()
+extern void SubscriptionPurchaseViewController_get_SubscriptionActiveMark_mC5C7A51A7478A2269F18E2BA1DEF7B2B7749B9ED (void);
+// 0x0000000C System.Void SubscriptionPurchaseViewController::set_SubscriptionActiveMark(UnityEngine.GameObject)
+extern void SubscriptionPurchaseViewController_set_SubscriptionActiveMark_m6D629B5C51D860034F658CB4813C420638F29021 (void);
+// 0x0000000D System.Void SubscriptionPurchaseViewController::Awake()
+extern void SubscriptionPurchaseViewController_Awake_mDF802554248AED17FFAB431121E2D3E4CEA6CA9C (void);
+// 0x0000000E System.Void SubscriptionPurchaseViewController::UpdateSubscriptionView(System.Boolean)
+extern void SubscriptionPurchaseViewController_UpdateSubscriptionView_mFC64186DEE0816A3D70991DC0287EAC2ED2CA9EB (void);
+// 0x0000000F System.Void SubscriptionPurchaseViewController::AddToLog(System.String)
+extern void SubscriptionPurchaseViewController_AddToLog_mDB4E4BDB856B2C651CA4F066648D24940E6B3F22 (void);
+// 0x00000010 System.Void SubscriptionPurchaseViewController::UpdateLog()
+extern void SubscriptionPurchaseViewController_UpdateLog_m75BADDDDC8195A345CD1B29A9E3516AF41D9363A (void);
+// 0x00000011 System.Void SubscriptionPurchaseViewController::ClearLog()
+extern void SubscriptionPurchaseViewController_ClearLog_mAC3AE5B9E4925E71DDF0DD54CB715DACEF069BBC (void);
+// 0x00000012 System.Void SubscriptionPurchaseViewController::PurchaseSubscription()
+extern void SubscriptionPurchaseViewController_PurchaseSubscription_m0608BC03C0858AACAFA54BCBDC33F1E8007D9058 (void);
+// 0x00000013 System.Void SubscriptionPurchaseViewController::.ctor()
+extern void SubscriptionPurchaseViewController__ctor_mE8149E66A5E7063622C7810FE17A3D0D83AE862D (void);
+static Il2CppMethodPointer s_methodPointers[19] = 
+{
+	SubscriptionPurchaseViewController_get_IAPManager_m0FB90263CC095F1FBCC42A54CBFFF6E6180E73A7,
+	SubscriptionPurchaseViewController_set_IAPManager_m5ED086A4195EE08C05BB6CA883BD7C86ECC874EB,
+	SubscriptionPurchaseViewController_get_LogTxt_m1889973B114F9405215795C20BFE557EEC50B604,
+	SubscriptionPurchaseViewController_set_LogTxt_mC34AD168518727E45C04FF19D974C2D6568752C1,
+	SubscriptionPurchaseViewController_get_PurchaseBtnTxt_mF397EEE7D02C73C479395980C9DF6003EA26071A,
+	SubscriptionPurchaseViewController_set_PurchaseBtnTxt_m530F6CE21A8F882091D74FFE6799A0FC0BCB2DE4,
+	SubscriptionPurchaseViewController_get_PurchaseBtn_m33A6D091C3EA34CC030C182F6B11080F731FA52A,
+	SubscriptionPurchaseViewController_set_PurchaseBtn_m9BF118357A521889ECE444BB80BE4A96F4D0D66E,
+	SubscriptionPurchaseViewController_get_ClearLogBtn_mB9C166C8B47ECECD6514C663576886D95FABDE38,
+	SubscriptionPurchaseViewController_set_ClearLogBtn_m13C3920A4A8BB588998402F4CEB44174C8FB3273,
+	SubscriptionPurchaseViewController_get_SubscriptionActiveMark_mC5C7A51A7478A2269F18E2BA1DEF7B2B7749B9ED,
+	SubscriptionPurchaseViewController_set_SubscriptionActiveMark_m6D629B5C51D860034F658CB4813C420638F29021,
+	SubscriptionPurchaseViewController_Awake_mDF802554248AED17FFAB431121E2D3E4CEA6CA9C,
+	SubscriptionPurchaseViewController_UpdateSubscriptionView_mFC64186DEE0816A3D70991DC0287EAC2ED2CA9EB,
+	SubscriptionPurchaseViewController_AddToLog_mDB4E4BDB856B2C651CA4F066648D24940E6B3F22,
+	SubscriptionPurchaseViewController_UpdateLog_m75BADDDDC8195A345CD1B29A9E3516AF41D9363A,
+	SubscriptionPurchaseViewController_ClearLog_mAC3AE5B9E4925E71DDF0DD54CB715DACEF069BBC,
+	SubscriptionPurchaseViewController_PurchaseSubscription_m0608BC03C0858AACAFA54BCBDC33F1E8007D9058,
+	SubscriptionPurchaseViewController__ctor_mE8149E66A5E7063622C7810FE17A3D0D83AE862D,
+};
+static const int32_t s_InvokerIndices[19] = 
+{
+	3366,
+	2795,
+	3366,
+	2795,
+	3366,
+	2795,
+	3366,
+	2795,
+	3366,
+	2795,
+	3366,
+	2795,
+	3458,
+	2734,
+	2795,
+	3458,
+	3458,
+	3458,
+	3458,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	19,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL, // module initializer,
+	NULL,
+	NULL,
+	NULL,
+};
